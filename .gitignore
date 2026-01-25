@@ -1,0 +1,3 @@
+config_backups/printer-[0-9]*_[0-9]*.cfg
+saved_variables.cfg
+ShakeTune_results/*/*.png
