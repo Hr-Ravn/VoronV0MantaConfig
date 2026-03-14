@@ -23,7 +23,7 @@
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "Not Ready",
-            "filament_status_led": "#ffff00",
+            "filament_status_led": "#ff0000",
             "status": "None",
             "dist_hub": 70.0,
             "td1_data": {}
@@ -51,7 +51,7 @@
             "extruder_temp": null,
             "runout_lane": null,
             "filament_status": "Not Ready",
-            "filament_status_led": "#ffff00",
+            "filament_status_led": "#ff0000",
             "status": "None",
             "dist_hub": 75.0,
             "td1_data": {}
